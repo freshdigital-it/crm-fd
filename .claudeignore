@@ -1,0 +1,35 @@
+Dependency & Build
+
+vendor/
+node_modules/
+public/build/
+public/hot/
+storage/
+
+Assets (Kecuali Anda sedang edit CSS/JS spesifik, un-ignore manual)
+
+public/assets/
+public/img/
+resources/assets/
+
+Git & IDE
+
+.git/
+.idea/
+.vscode/
+.env
+.env.example
+
+Logs & Cache
+
+*.log
+*.lock
+package-lock.json
+composer.lock
+
+Documentation & Misc
+
+README.md
+LICENSE
+CHANGELOG.md
+tests/ (Ignore tests jika tidak sedang diminta membuat unit test)
