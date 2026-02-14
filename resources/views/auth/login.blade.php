@@ -106,7 +106,7 @@
             <div class="forgot_pswd mb-3">
                 <a href="{{ url('forgot-password') }}">@lang('app.forgotPassword')</a>
             </div>
-            test
+            test again
 
             <div class="form-group text-left ">
                 <input id="checkbox-signup" class="cursor-pointer" type="checkbox" name="remember">
